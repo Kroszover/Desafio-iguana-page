@@ -8,34 +8,34 @@
 
 }
 
-#h1_seccion_1 {
+#h1_1box {
     text-align: center;
     font-size: 25px;
     font-family: 'Raleway', sans-serif;
     color: #ffffff;
 }
 
-#img_seccion_2 {
+#img_2box {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.un_item {
+.primera_imagen {
     object-fit: cover;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.un_item_texto{
+.primer_elemento{
    height: 73px;
    display: flex;
    justify-content: center;
    align-items: center;
 }
 
-.dos_items {
+.segundo_elemento {
     width: auto;
     height: 348px;
     display: flex;
@@ -61,7 +61,7 @@
 
 }
 
-.dos_img {
+.segunda_imagen {
     height: 237px;
     width: 399px;
     font-size: 16px;
