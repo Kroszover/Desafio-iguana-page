@@ -1,0 +1,99 @@
+* {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    /*border-color: rgb(255, 0, 0);
+    border-width: 1px;
+    border-style: solid;*/
+
+}
+
+#h1_seccion_1 {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+}
+
+#img_seccion_2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.un_item {
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.un_item_texto{
+   height: 73px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.dos_items {
+    width: auto;
+    height: 348px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.tres_items {
+    width: auto;
+    height: 348px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.ico {
+    font-size: 60px !important;
+}
+
+.color_distinto {
+    background-color: #1a1a13 !important;
+
+}
+
+.dos_img {
+    height: 237px;
+    width: 399px;
+    font-size: 16px;
+    object-fit: cover;
+    margin: 10px;
+}
+
+.tres_img {
+    height: 202px;
+    width: 316px;
+    object-fit: cover;
+    padding: 5px;
+}
+
+.tres_iconos {
+    width: 60%;
+    height: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+.dos_items_sobre {
+    height: 348px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
+
+/*p {background-color: red;}*/
+/*.test1 {background-color: blue;}*/
+/*#test2 {background-color: chartreuse;}*/
