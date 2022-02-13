@@ -1,57 +1,61 @@
 * {
-    background-color: #000000;
-    color: #ffffff;
-    font-family: 'Raleway', sans-serif;
-    /*border-color: rgb(255, 0, 0);
-    border-width: 1px;
-    border-style: solid;*/
-
+  background-color: #000000;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
 }
 
 #h1_1box {
-    text-align: center;
-    font-size: 25px;
-    font-family: 'Raleway', sans-serif;
-    color: #ffffff;
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Raleway', sans-serif;
+  color: #ffffff;
+
 }
 
-#img_2box {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+#img_2box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
 
-.primera_imagen {
-    object-fit: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+#primera_imagen{
+  object-fit: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.primer_elemento{
-   height: 73px;
-   display: flex;
-   justify-content: center;
-   align-items: center;
+#primer_elemento{
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.segundo_elemento {
-    width: auto;
-    height: 348px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+#segundo_elemento{
+  width: auto;
+  height: 350px;
+  display: flex;
+  justify-content:
+  align-items:center;
+}
+#segundo_parrafo{
+  width: auto;
+  height: 350px;
+  display: flex;
+  justify-content:flex-start;
+  align-items:flex-start;
 }
 
-.3_imagenes {
-    width: auto;
-    height: 348px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+#tres_imagenes{
+  width: auto;
+      height: 348px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
 }
-
 .ico {
     font-size: 60px !important;
 }
@@ -70,8 +74,8 @@
 }
 
 .tres_img {
-    height: 202px;
-    width: 316px;
+    height: 200px;
+    width: 310px;
     object-fit: cover;
     padding: 5px;
 }
@@ -93,7 +97,3 @@
     align-items: center;
     text-align: center;
 }
-
-/*p {background-color: red;}*/
-/*.test1 {background-color: blue;}*/
-/*#test2 {background-color: chartreuse;}*/
